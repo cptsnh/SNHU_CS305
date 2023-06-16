@@ -18,13 +18,13 @@ Performing static analysis and a manual code review were the primary ways I made
 
 ## Resources and tools
 I used the following tools and resources for this application:
-•	SonaType (mainly for their OSS Index of known vulnerabilities)
-•	Automation with Maven and OWASP Dependency checker
-•	OWASP website including their numerous security quick reference guides
-•	CVE database by Mitre
-•	The NIST vulnerability database
-•	The VAPFD
-•	Oracle’s Secure Coding Guidelines
+* SonaType (mainly for their OSS Index of known vulnerabilities)
+* Automation with Maven and OWASP Dependency checker
+* OWASP website including their numerous security quick reference guides
+* CVE database by Mitre
+* The NIST vulnerability database
+* The VAPFD
+* Oracle’s Secure Coding Guidelines
 
 The benefit of these resources is amazing, and I will continue to reference them in my future assignments and in my career as a software developer.
 
